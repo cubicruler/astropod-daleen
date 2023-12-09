@@ -4,7 +4,7 @@ audioUrl: https://media.githubusercontent.com/media/cubicruler/astropod-daleen/m
 pubDate: Sep 10 2022
 duration: 1:11:53
 size: 0.7
-cover: "https://media.licdn.com/dms/image/C4E03AQEpypwB9qnzYw/profile-displayphoto-shrink_400_400/0/1619688428372?e=1707350400&v=beta&t=QV8NoYExx_lf0rSgTysHlMR7IYVYnCcKlrYlhCGPrP4"
+cover: "/covers/episode1.jpg"
 explicit: false
 episode: 1
 season: 1
